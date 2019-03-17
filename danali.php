@@ -2,7 +2,7 @@
 /**
  * @package Danali - PHP bruteforcer
  * @author Fahad Yousaf Mahar <fahadyousafmahar@gmail.com>
- * @license MIT
+ * @license GPLV3.0
  * @copyright 2019 StalkersSecurity 
  * @link https://stalkers.pk
  * 
