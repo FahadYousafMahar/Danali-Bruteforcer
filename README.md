@@ -21,10 +21,12 @@ cURL is by default enabled, most of the time.
 
 ### Usage Instructions
 1- Download the repository and extract it to a folder
+
 2- Open a terminal.
+
 3- cd to PHP installation directory
 ```
-   cd C:\xampp\php // for Windows
+   cd C:\xampp\php
 ```
 4- write command
 ```
